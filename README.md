@@ -53,7 +53,7 @@ It highlights monthly revenue trends, country-wise performance, and customer con
 
 # 🚀 How to Use
 
-1.Download the .pbix file from this repository.
+1.'Download the .pbix' file from this repository.
 
 2.Open it in Power BI Desktop.
 
