@@ -1,3 +1,4 @@
+<img width="1919" height="948" alt="Screenshot 2025-08-29 153853" src="https://github.com/user-attachments/assets/ca571978-b368-480a-ba23-089ef42ca7da" />
 # OnlineRetail-Store-Dashboard
 Built an interactive Power BI dashboard to analyze online retail sales data, highlighting monthly revenue patterns, country-level performance, and top customer contributions, enabling businesses to identify trends and make informed decisions.
 <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/bae7f505-43de-4883-8b64-f202e6e79713" />
