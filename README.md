@@ -16,6 +16,7 @@ It highlights monthly revenue trends, country-wise performance, and customer con
 # 🔍 Key Insights
 
 ✔️ Monthly Revenue Trends (Peak in November: 1.5M, Lowest in February: 0.52M)
+
 ✔️ Country-wise Analysis (Top: EIRE & Germany, Low: Belgium & Norway)
 ✔️ Customer Revenue Contribution (Top customers account for major revenue share)
 ✔️ Quantity Sold by Country (Sales comparison across regions)
