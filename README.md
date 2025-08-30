@@ -1,6 +1,6 @@
 <img width="1919" height="948" alt="Screenshot 2025-08-29 153853" src="https://github.com/user-attachments/assets/ca571978-b368-480a-ba23-089ef42ca7da" />
 
-# OnlineRetail-Store-Dashboard - Power BI Dashboard 📊
+# Global Sales & Revenue Analysis Dashboard
 
 ## 📌 Project Overview
 This project provides an interactive Power BI Dashboard for analyzing Online Retail Store sales data.
